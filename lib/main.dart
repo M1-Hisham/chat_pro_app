@@ -1,6 +1,7 @@
 import 'package:adaptive_theme/adaptive_theme.dart';
 import 'package:chat_app/authentication/views/login_screen.dart';
 import 'package:chat_app/providers/authentication_provider.dart';
+import 'package:chat_app/screens/home_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
